@@ -1,2 +1,2 @@
-https://github.com/zunb0001/promises.git
-https://zunb0001.github.io/promises/
+https://github.com/zunb0001/geolocation.git
+https://zunb0001.github.io/geolocation/
