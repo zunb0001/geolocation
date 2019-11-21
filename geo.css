@@ -1,0 +1,9 @@
+#output{
+    width: 900px;
+    height: 600px;
+    border: 5px solid darkslateblue ;
+}
+.head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslateblue; 
+}
